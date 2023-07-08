@@ -1,14 +1,14 @@
 {
-  "name": "@swoop-exchange/default-token-list",
-  "version": "1.4.5",
-  "description": "◦ The Swoop default token list",
-  "main": "build/swoop-default.tokenlist.json",
+  "name": "@thinkincoin-libs/harmony-token-list",
+  "version": "1.0.0",
+  "description": "◦ Think in Coin SWAP >> default token list",
+  "main": "build/thinkincoin-default.tokenlist.json",
   "files": [
-    "build/swoop-default.tokenlist.json"
+    "build/thinkincoin-default.tokenlist.json"
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/harmony-one/swoop-default-token-list.git"
+    "url": "git+https://github.com/thinkincoin/harmony-token-list.git"
   },
   "keywords": [
     "swoop",
@@ -19,9 +19,9 @@
   "author": "Moody Salem",
   "license": "GPL-3.0-or-later",
   "bugs": {
-    "url": "https://github.com/harmony-one/swoop-default-token-list/issues"
+    "url": "https://github.com/thinkincoin/harmony-token-list/issues"
   },
-  "homepage": "https://github.com/harmony-one/swoop-default-token-list#readme",
+  "homepage": "https://github.com/thinkincoin/harmony-token-list#readme",
   "devDependencies": {
     "@ethersproject/address": "^5.0.2",
     "@uniswap/token-lists": "^1.0.0-beta.17",
@@ -32,7 +32,7 @@
   },
   "scripts": {
     "test": "mocha",
-    "build": "rimraf build && mkdir -p build && node src/write.js > build/swoop-default.tokenlist.json",
+    "build": "rimraf build && mkdir -p build && node src/write.js > build/thinkincoin-default.tokenlist.json",
     "prepublishOnly": "yarn test && yarn build"
   }
 }
