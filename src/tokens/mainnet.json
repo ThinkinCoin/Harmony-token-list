@@ -1,66 +1,58 @@
 [
   {
-    "chainId": 1,
+    "chainId": 1666600000,
     "address": "0xcF664087a5bB0237a0BAd6742852ec6c8d69A27a",
     "symbol": "WONE",
     "name": "Wrapped ONE",
     "decimals": 18,
-    "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/WONE.png"
+    "logoURI": "https://github.com/ThinkinCoin/Harmony-token-list/blob/2c2ee6f33da5652c82021254607ee3b894c7fe58/img/harmonyCircleLogo.png"
   },
   {
-    "chainId": 1,
-    "address": "0xE176EBE47d621b984a73036B9DA5d834411ef734",
+    "chainId": 1666600000,
+    "address": "0x1Aa1F7815103c0700b98f24138581b88d4cf9769",
     "symbol": "BUSD",
     "name": "Binance USD",
     "decimals": 18,
     "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png"
   },
   {
-    "chainId": 1,
+    "chainId": 1666600000,
     "address": "0x3095c7557bCb296ccc6e363DE01b760bA031F2d9",
-    "symbol": "1WBTC",
-    "name": "Wrapped BTC",
+    "symbol": "USDT",
+    "name": "Tether Dollar",
     "decimals": 8,
     "logoURI": "https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png"
   },
   {
-    "chainId": 1,
+    "chainId": 1666600000,
     "address": "0x6983D1E6DEf3690C4d616b13597A09e6193EA013",
-    "symbol": "1ETH",
-    "name": "Ether",
+    "symbol": "USDC",
+    "name": "USD Circle",
     "decimals": 18,
     "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/1ETH.png"
   },
   {
-    "chainId": 1,
+    "chainId": 1666600000,
     "address": "0xF720b7910C6b2FF5bd167171aDa211E226740bfe",
-    "symbol": "1WETH",
-    "name": "Wrapped Ether",
+    "symbol": "ETH",
+    "name": "Ethereum",
     "decimals": 18,
     "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/1WETH.png"
   },
   {
-    "chainId": 1,
+    "chainId": 1666600000,
     "address": "0x218532a12a389a4a92fC0C5Fb22901D1c19198aA",
-    "symbol": "LINK",
-    "name": "ChainLink Token",
+    "symbol": "BTC",
+    "name": "Bitcoin",
     "decimals": 18,
     "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/1LINK.png"
   },
   {
-    "chainId": 1,
-    "address": "0x421b372389f89E2Abbf2C91f006Fc04a1f424B2D",
-    "symbol": "1YFL",
-    "name": "YFLink",
+    "chainId": 1666600000,
+    "address": "0xFb5e55b89dbeAF01797Be3F744bd556E4d9FB259",
+    "symbol": "NEURONS",
+    "name": "Think in Coin",
     "decimals": 18,
-    "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/1YFL.png"
-  },
-  {
-    "chainId": 1,
-    "address": "0x34704c70e9eC9fB9A921da6DAAD7D3e19f43c734",
-    "symbol": "1DSLA",
-    "name": "DSLA",
-    "decimals": 18,
-    "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/1DSLA.png"
+    "logoURI": "https://github.com/ThinkinCoin/Harmony-token-list/blob/2c2ee6f33da5652c82021254607ee3b894c7fe58/img/NeuronsLogo.png"
   }
 ]
