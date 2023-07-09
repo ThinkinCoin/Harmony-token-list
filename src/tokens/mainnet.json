@@ -13,39 +13,39 @@
     "symbol": "BUSD",
     "name": "Binance USD",
     "decimals": 18,
-    "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png"
+    "logoURI": "https://github.com/ThinkinCoin/Harmony-token-list/tree/2d293c560ddf9aa132dc33eb02390eef24629715/img/busdCircleLogo.png"
   },
   {
     "chainId": 1666600000,
-    "address": "0x3095c7557bCb296ccc6e363DE01b760bA031F2d9",
+    "address": "0x9A89d0e1b051640C6704Dde4dF881f73ADFEf39a",
     "symbol": "USDT",
     "name": "Tether Dollar",
     "decimals": 8,
-    "logoURI": "https://assets.coingecko.com/coins/images/7598/small/wrapped_bitcoin_wbtc.png"
+    "logoURI": "https://github.com/ThinkinCoin/Harmony-token-list/tree/2d293c560ddf9aa132dc33eb02390eef24629715/img/usdtCircleLogo.png"
   },
   {
     "chainId": 1666600000,
-    "address": "0x6983D1E6DEf3690C4d616b13597A09e6193EA013",
+    "address": "0xBC594CABd205bD993e7FfA6F3e9ceA75c1110da5",
     "symbol": "USDC",
     "name": "USD Circle",
     "decimals": 18,
-    "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/1ETH.png"
+    "logoURI": "https://github.com/ThinkinCoin/Harmony-token-list/tree/2d293c560ddf9aa132dc33eb02390eef24629715/img/usdcCircleLogo.png"
   },
   {
     "chainId": 1666600000,
-    "address": "0xF720b7910C6b2FF5bd167171aDa211E226740bfe",
+    "address": "0x4cC435d7b9557d54d6EF02d69Bbf72634905Bf11",
     "symbol": "ETH",
     "name": "Ethereum",
     "decimals": 18,
-    "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/1WETH.png"
+    "logoURI": "https://github.com/ThinkinCoin/Harmony-token-list/tree/2d293c560ddf9aa132dc33eb02390eef24629715/img/ethCircleLogo.png"
   },
   {
     "chainId": 1666600000,
-    "address": "0x218532a12a389a4a92fC0C5Fb22901D1c19198aA",
+    "address": "0x118f50d23810c5E09Ebffb42d7D3328dbF75C2c2",
     "symbol": "BTC",
     "name": "Bitcoin",
     "decimals": 18,
-    "logoURI": "https://swoop-exchange.s3-us-west-1.amazonaws.com/tokens/1LINK.png"
+    "logoURI": "https://github.com/ThinkinCoin/Harmony-token-list/tree/2d293c560ddf9aa132dc33eb02390eef24629715/img/btcCircleLogo.png"
   },
   {
     "chainId": 1666600000,
@@ -53,6 +53,6 @@
     "symbol": "NEURONS",
     "name": "Think in Coin",
     "decimals": 18,
-    "logoURI": "https://github.com/ThinkinCoin/Harmony-token-list/blob/2c2ee6f33da5652c82021254607ee3b894c7fe58/img/NeuronsLogo.png"
+    "logoURI": "https://github.com/ThinkinCoin/Harmony-token-list/tree/2d293c560ddf9aa132dc33eb02390eef24629715/img/Neurons.png"
   }
 ]
