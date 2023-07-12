@@ -13,7 +13,7 @@ module.exports = function buildList() {
       'patch': +parsed[ 2 ]
     },
     'tags': {},
-    'logoURI': 'https://swoop-exchange.s3-us-west-1.amazonaws.com/swoop.png',
+    'logoURI': 'https://github.com/ThinkinCoin/Harmony-token-list/blob/master/img/tc.png',
     'keywords': [
       'Think in coin',
       'default',
