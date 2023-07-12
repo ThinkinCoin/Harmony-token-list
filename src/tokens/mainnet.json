@@ -1,4 +1,14 @@
-[
+{
+  "name": "Harmony Token List",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://github.com/ThinkinCoin/Harmony-token-list/blob/master/img/tc.png",
+  "keywords": ["ONE", "Harmony", "tokens"],
+  "timestamp": "2023-02-27T20:37:00.000+00:00",
+  "tokens": [
   {
     "chainId": 1666600000,
     "address": "0xcF664087a5bB0237a0BAd6742852ec6c8d69A27a",
@@ -56,3 +66,4 @@
     "logoURI": "https://github.com/ThinkinCoin/Harmony-token-list/tree/2d293c560ddf9aa132dc33eb02390eef24629715/img/Neurons.png"
   }
 ]
+}
