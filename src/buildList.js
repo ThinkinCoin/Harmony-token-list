@@ -13,7 +13,7 @@ const bnb = require("./tokens/bnb.json");
 const sepolia = require("./tokens/sepolia.json");
 const avalanche = require("./tokens/avalanche.json");
 const baseGoerli = require("./tokens/base-goerli.json");
-const baseGoerli = require("./tokens/harmony.json");
+const harmony = require("./tokens/harmony.json");
 
 const bridgeUtils = require('@uniswap/token-list-bridge-utils');
 
