@@ -12,7 +12,7 @@ const arbitrum = require("./tokens/arbitrum.json");
 const bnb = require("./tokens/bnb.json");
 const sepolia = require("./tokens/sepolia.json");
 const avalanche = require("./tokens/avalanche.json");
-const baseGoerli = require("./tokens/base-goerli.json");
+//const baseGoerli = require("./tokens/base-goerli.json");
 const harmony = require("./tokens/harmony.json");
 
 const bridgeUtils = require('@uniswap/token-list-bridge-utils');
@@ -30,7 +30,7 @@ module.exports = function buildList() {
     tags: {},
     logoURI: "https://github.com/ThinkinCoin/Harmony-token-list/blob/master/img/tc.png",
     keywords: ["uniswap", "Harmony", "default"],
-    tokens: [...mainnet, ...ropsten, ...goerli, ...kovan, ...rinkeby, ...polygon, ...mumbai, ...optimism, ...celo, ...arbitrum, ...bnb, ...sepolia, ...avalanche, ...baseGoerli, ...harmony]
+    tokens: [...mainnet, ...ropsten, ...goerli, ...kovan, ...rinkeby, ...polygon, ...mumbai, ...optimism, ...celo, ...arbitrum, ...bnb, ...sepolia, ...avalanche, ...harmony]
       // sort them by symbol for easy readability
       .sort((t1, t2) => {
         if (t1.chainId === t2.chainId) {
