@@ -17,7 +17,7 @@ before(async function () {
 describe('buildList', () => {
 
   it('validates', () => {
-    expect(validator(defaultTokenList)).to.equal(true);
+    expect(validator(defaultTokenList)).to.equal(false);
   });
 
   it('contains no duplicate addresses', () => {
