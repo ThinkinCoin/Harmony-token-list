@@ -1,5 +1,5 @@
 {
-  "name": "@thinkincoin-libs/harmony-token-list",
+  "name": "@thinkincoin-libs/default-token-list",
   "version": "1.0.0",
   "description": "◦ Think in Coin SWAP >> default token list",
   "main": "build/thinkincoin-default.tokenlist.json",
@@ -8,7 +8,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/thinkincoin/harmony-token-list.git"
+    "url": "git+https://github.com/thinkincoin/default-token-list.git"
   },
   "keywords": [
     "thinkincoin",
