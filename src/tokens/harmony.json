@@ -115,7 +115,7 @@
     {
       "chainId": 1666600000,
       "address": "0x301259f392B551CA8c592C9f676FCD2f9A0A84C5",
-      "symbol": "MATIC",
+      "symbol": "eMATIC",
       "name": "MATIC ERC20",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/4713/small/matic-token-icon.png"
@@ -123,7 +123,7 @@
     {
       "chainId": 1666600000,
       "address": "0x6E7bE5B9B4C9953434CD83950D61408f1cCc3bee",
-      "symbol": "MATIC",
+      "symbol": "bMATIC",
       "name": "MATIC BEP20",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/4713/small/matic-token-icon.png"
