@@ -18,7 +18,7 @@
       "symbol": "WONE",
       "name": "Wrapped ONE",
       "decimals": 18,
-      "logoURI": "https://harmony.one/logo"
+      "logoURI": "img/harmonyCircleLogo.png"
     },
     {
       "chainId": 1666600000,
