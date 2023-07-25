@@ -92,7 +92,7 @@
       "chainId": 1666600000,
       "address": "0xFeee03BFBAA49dc8d11DDAab8592546018dfb709",
       "symbol": "BUSD ERC20",
-      "name": "Binance USD",
+      "name": "Binance USD (eth)",
       "decimals": 6,
       "logoURI": "https://assets.coingecko.com/coins/images/9576/small/BUSD.png"
     },
