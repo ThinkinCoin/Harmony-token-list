@@ -1,4 +1,17 @@
-[
+{
+  "name": "Harmony Token List",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "logoURI": "https://harmony.one/logo",
+  "keywords": [
+    "harmony",
+    "tokens"
+  ],
+  "timestamp": "2023-02-27T20:37:00.000+00:00",
+  "tokens": [
     {
       "chainId": 1666600000,
       "address": "0xcF664087a5bB0237a0BAd6742852ec6c8d69A27a",
@@ -176,4 +189,4 @@
       "decimals": 18,
       "logoURI": "https://assets.coingecko.com/coins/images/9956/small/Badge_Dai.png"
     }
-]
+]}
