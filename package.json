@@ -1,6 +1,6 @@
 {
   "name": "@thinkincoin-libs/default-token-list",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "◦ Think in Coin SWAP >> default token list",
   "main": "build/thinkincoin-default.tokenlist.json",
   "files": [
@@ -24,8 +24,8 @@
   "homepage": "https://github.com/thinkincoin/harmony-token-list#readme",
   "devDependencies": {
     "@ethersproject/address": "^5.7.0",
-    "@uniswap/token-lists": "^1.0.0-beta.33",
     "@uniswap/token-list-bridge-utils": "2.1.0",
+    "@uniswap/token-lists": "^1.0.0-beta.33",
     "ajv": "^6.12.3",
     "chai": "^4.2.0",
     "mocha": "^8.0.1",
