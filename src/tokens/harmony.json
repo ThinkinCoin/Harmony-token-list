@@ -5,7 +5,7 @@
       "symbol": "WONE",
       "name": "Wrapped ONE",
       "decimals": 18,
-      "logoURI": "https://harmony.one/logo"
+      "logoURI": "https://raw.githubusercontent.com/ThinkinCoin/default-token-list/master/img/harmonySquareLogo.jpeg"
     },
     {
       "chainId": 1666600000,
